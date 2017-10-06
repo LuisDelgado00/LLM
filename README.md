@@ -62,6 +62,17 @@ Reference-style:
 
 [logo]: https://avatars0.githubusercontent.com/u/19570767?v=4
 
-# Que codificacion usa este fichero de texto? 
+# Que codificacion usa este fichero de texto.
 
 Consta de una codificacion UTF-8.
+
+# Principales instrucciones: Git.
+
+1. La funcion de git add podemos registrar los cambios en la parte del Indice.
+
+2. La funcion de git commit -m, describe los cambios realizados.
+
+3. La funcion git git pull origin master -m "mensaje" descarga e incorpora los cambios al repositorio remoto.
+
+4. La funcion de git push origin master carga todos los repositorios locales al repositorio remoto.
+
